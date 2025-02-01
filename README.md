@@ -1,6 +1,6 @@
 # Customer_data_analysis_internship_task3
 
-(a) Overview
+(a) Overview: 
 Customer segmentation is crucial for businesses to personalize marketing strategies, optimize customer retention, and maximize revenue. In this project, K-Means clustering is applied to a dataset containing customer shopping trends to categorize customers based on their purchasing behavior and demographic attributes.
 
 (b) Clustering helps group customers with similar characteristics. This enables businesses to:
